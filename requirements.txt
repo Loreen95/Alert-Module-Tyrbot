@@ -1,0 +1,7 @@
+requests
+mysql-connector
+pytz
+hjson
+discord
+psutil
+bbcode

@@ -1,0 +1,13 @@
+/venv
+__pycache__
+/.idea
+/conf/config.json
+/conf/config.hjson
+/data/database.db
+/logs/
+/modules/custom
+/modules/disabled
+.vscode/*
+/.vscode
+*.log
+/data/cache
